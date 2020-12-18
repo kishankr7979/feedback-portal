@@ -1,6 +1,9 @@
 # Feedback form for our Placements4u portal using Node.Js | Express.Js for server and MongoDB for Database.
 # Download the source code 
 and follow these steps : 
+cd <project directory>
+npm start // it will start the server
+npm build //
  
 # Here's Some sceenshot below
 
