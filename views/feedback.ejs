@@ -1,0 +1,33 @@
+<%- include("./partials/header") %>
+<a href="/" class="btn" style="background-color:aqua">Go Back</a>
+<center><a href="https://placements4u.github.io/Placement/index.html"><img src="logo.png"></a></center>
+<div class="container mt-5">
+   
+    <h1 align="center">Feedback Form</h1>
+<h3 align="center" style="color: grey;">(Please enter your feedback)
+</h3>
+    <form action="/feedback" method="POST">
+        <div class="form-group">
+            <label for="exampleInputEmail1">Email address</label>
+            <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputName">Name</label>
+            <input type="fullname" name="fullname" class="form-control" id="exampleInputName">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputfeedback">Feedback</label>
+            <textarea type="feedback" name="feedback" class="form-control" id="exampleInputfeedback"></textarea>
+        </div>
+        
+        <center><button type="submit" class="btn btn-primary" id = 'btnShowMsg' onclick='autoclick()'>Send</button></center>
+    </form>
+    </div>
+
+
+<!--scrips-->
+
+
+
+<%- include("./partials/header") %>
