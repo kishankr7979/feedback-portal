@@ -9,8 +9,6 @@ and follow these steps :
 
 # Here's Some sceenshot below
 
-![Screenshot 2020-12-11 at 7 53 56 PM](https://user-images.githubusercontent.com/41482800/101917192-f80fb900-3bed-11eb-9df8-89c92606773c.png)
-![Screenshot 2020-12-11 at 7 59 47 PM](https://user-images.githubusercontent.com/41482800/101917406-373e0a00-3bee-11eb-88ea-51c4faf5f211.png)
-
-![Screenshot 2020-12-11 at 8 00 08 PM](https://user-images.githubusercontent.com/41482800/101917203-fcd46d00-3bed-11eb-9cfb-c3eeac823dcb.png)
+![Screenshot 2020-12-18 at 3 58 20 PM](https://user-images.githubusercontent.com/41482800/102604373-16c00380-414a-11eb-8890-a7d35cbeb644.png)
+![Screenshot 2020-12-18 at 3 58 28 PM](https://user-images.githubusercontent.com/41482800/102604386-1b84b780-414a-11eb-933b-143a24bcb5b2.png)
 
